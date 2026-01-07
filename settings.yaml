@@ -1,0 +1,9 @@
+timeframes: ["M15", "H1"]
+pairs: ["EUR_USD", "GBP_USD", "USD_JPY"]
+risk:
+  risk_frac: 0.01
+  atr_mult_stop: 1.5
+  rr: 1.5
+session:
+  trade_start_utc: "07:00"
+  trade_end_utc: "18:00"
